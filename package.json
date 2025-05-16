@@ -63,6 +63,7 @@
     "Tieu-Philippe KHIM <pkhim@digikare.com>"
   ],
   "publishConfig": {
-    "tag": "next"
+    "tag": "next",
+    "access": "public"
   }
 }
